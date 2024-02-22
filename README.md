@@ -17,4 +17,6 @@ Live:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mukulpythondev/MusicScript
+   git clone https://github.com/mukulpythondev/MusicScript.git
+2. Open the index.html
+3. Enjoy listening to your favorite music!
